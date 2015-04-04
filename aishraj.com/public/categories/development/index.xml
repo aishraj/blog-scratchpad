@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Development on Aishraj Dahal</title>
+    <link>http://localhost:1313/categories/development/</link>
+    <description>Recent content in Development on Aishraj Dahal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 04 Apr 2015 12:51:05 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/development/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>four</title>
+      <link>http://localhost:1313/post/four/</link>
+      <pubDate>Sat, 04 Apr 2015 12:51:05 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/four/</guid>
+      <description>&lt;p&gt;Food is this&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>three</title>
+      <link>http://localhost:1313/post/three/</link>
+      <pubDate>Sat, 04 Apr 2015 12:51:01 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/three/</guid>
+      <description>&lt;p&gt;Testing three&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>two</title>
+      <link>http://localhost:1313/post/two/</link>
+      <pubDate>Sat, 04 Apr 2015 12:50:56 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/two/</guid>
+      <description>&lt;p&gt;Testing 1&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

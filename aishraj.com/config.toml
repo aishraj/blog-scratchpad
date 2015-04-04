@@ -1,0 +1,9 @@
+baseurl = "http://aishraj.com/"
+languageCode = "en-us"
+title = "Aishraj's homepage"
+canonifyurls = true
+
+[author]
+  github = "aishraj"
+  twitter = "aishrajdahal"
+  name = "Aishraj Dahal"
